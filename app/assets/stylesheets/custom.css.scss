@@ -25,6 +25,9 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 425px;
+  & * {
+    text-shadow: 2px 2px 2px #26110A;
+  }
 }
 
 html,
